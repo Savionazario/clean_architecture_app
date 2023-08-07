@@ -1,6 +1,6 @@
 # clean_architecture_app
 
-A new Flutter project.
+A Flutter project to study and apllies concepts of clean architecture
 
 ## Getting Started
 
